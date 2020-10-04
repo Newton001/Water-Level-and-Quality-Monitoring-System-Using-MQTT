@@ -33,8 +33,8 @@ char auth[] = "xxxxxxxxxxxxx";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "xxxxx";
-char pass[] = "xxxxxxxxxxx";
+char ssid[] = "DON VINTON";
+char pass[] = "1234567890987";
 
 
 void setup() {
@@ -48,7 +48,9 @@ void setup() {
 }
 
 void loop() {
-  
+  waterLevel();
+  sensorph();
+  turbidity();
   
 }
 
