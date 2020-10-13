@@ -22,7 +22,8 @@ We are going to use NodeMCU microcontroller and Blynk IoT app for monitoring.
  11. Box to mount entire project x 1
  
 
-This project will allow you to monitor the water level of an overhead tank or underground sump. You can configure to auto start / stop the pump or motor based on water level.
+This project will allow you to monitor the water level of an overhead tank or underground pump. You can configure to auto start / stop the pump or motor based on water level.
+The Circuit connection for the Ultrasensor and the NodeMCU is as shown below
 
 
 
