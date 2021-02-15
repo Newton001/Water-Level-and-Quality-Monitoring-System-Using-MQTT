@@ -21,6 +21,8 @@ We are going to use NodeMCU microcontroller and Blynk IoT app for monitoring.
  10. LED x 5
  11. Box to mount entire project x 1
  
+ ## CIRCUIT DIAGRAM
+ 
  ![CIRCUIT DIAGRAM](https://user-images.githubusercontent.com/45996137/107925755-e946d900-6f85-11eb-8c39-2ee242f8b4cd.png)
 
 
