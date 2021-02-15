@@ -9,7 +9,7 @@ We are going to use NodeMCU microcontroller and Blynk IoT app for monitoring.
 
 ## Parts List
 
- 1. NodeMCU x 1
+ 1. Arduino MKR Wi-Fi 1010 x 1
  2. 5V SMPS power supply x 1
  3. Ultrasonic Sensor x 1
  4. Analog pH sensor x 1
@@ -20,6 +20,8 @@ We are going to use NodeMCU microcontroller and Blynk IoT app for monitoring.
  9. 4 Core Long Cable
  10. LED x 5
  11. Box to mount entire project x 1
+ 
+ ![GitHub Logo](/images/logo.png)
  
 
 This project will allow you to monitor the water level of an overhead tank or underground pump. You can configure to auto start / stop the pump or motor based on water level.
