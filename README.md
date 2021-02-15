@@ -5,7 +5,7 @@ Water is an important resource for the livelihood of human beings. The quality o
 This project uses ultrasonic sensor,  which measures the water level, Analog pH sensor, which Measures the pH state of Water. The data is sent to NodeMCU that incoroporates an onboard ESP8266 to trasnmit the data to a Blynk App.
 The WiFi module is connected to internet and shares the data to Blynk platform. This data is displayed on real time basis. Over smart phone using Blynk app you can see the water level and quality parameters. With few modification you can get approximate liters of water available in the tank as well as its state.
 
-We are going to use NodeMCU microcontroller and Blynk IoT app for monitoring.
+We are going to use Arduino MKR Wi-Fi 1010 microcontroller and Blynk IoT app for monitoring.
 
 ## Parts List
 
@@ -27,7 +27,7 @@ We are going to use NodeMCU microcontroller and Blynk IoT app for monitoring.
 
 
 This project will allow you to monitor the water level of an overhead tank or underground pump. You can configure to auto start / stop the pump or motor based on water level.
-The Circuit connection for the Ultrasensor and the NodeMCU is as shown below
+The Circuit connection for the setup  is as shown above.
 
 
 
