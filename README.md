@@ -21,8 +21,8 @@ We are going to use NodeMCU microcontroller and Blynk IoT app for monitoring.
  10. LED x 5
  11. Box to mount entire project x 1
  
- ![GitHub Logo](/images/logo.png)
- 
+ ![CIRCUIT DIAGRAM](https://user-images.githubusercontent.com/45996137/107925755-e946d900-6f85-11eb-8c39-2ee242f8b4cd.png)
+
 
 This project will allow you to monitor the water level of an overhead tank or underground pump. You can configure to auto start / stop the pump or motor based on water level.
 The Circuit connection for the Ultrasensor and the NodeMCU is as shown below
